@@ -1,1 +1,1 @@
-# euro-exchangerates
+Analyzig Euro exchange rates from 1999 to 2022
